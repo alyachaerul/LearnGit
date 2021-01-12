@@ -1,0 +1,12 @@
+Hello, World!
+
+Let me introduce my self, my name is Rayhan Alya Chaerul. You can call me Alya.
+I am from Bandung, I'm a finaly year student in Brawijaya University. 
+
+Talking about hobbies, I like to read some books about product management and business, and
+I like to swimming as well because it is fun!
+
+Regarding to the bootcamp, the purpose why I join this bootcamp is to learning more deep 
+about programming. As I want to be a Quality Assurance Engineer, I want to learn 
+from the mentor and get some insights and direction as well about how to be a QA Engineer 
+and all the tips and ways to run through that I have to learn to be a QA Engineer. 
