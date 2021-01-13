@@ -1,4 +1,19 @@
 Deodatus Andreas Deddy Cahyadi Sunjoyo atau 
 lebih dikenal sebagai Deddy Corbuzier (lahir di Jakarta, 
+<<<<<<< Updated upstream
 28 Desember 1976; umur 44 tahun) adalah seorang mentalis yang populer di Indonesia. 
 Ia adalah seorang pesulap profesional keturunan Tionghoa.  
+=======
+28 Desember 1976; umur 45 tahun) adalah seorang mentalis yang populer di Indonesia. 
+Ia adalah seorang pesulap profesional keturunan Tionghoa.  
+
+Ketenarannya bukan hanya dilambungkan oleh profesinya sebagai artis film, 
+tetapi juga berkat penampilannya dalam kancah dunia hiburan di Indonesia. 
+Selain sering tampil dalam berbagai acara sulap dan talk show tentang sulap 
+di berbagai stasiun televisi, ia juga pernah membintangi sejumlah iklan di televisi 
+dan media cetak. Deddy pun sempat bermain dalam sejumlah sinetron sebagai bintang tamu. 
+Ketenarannya terutama ditopang oleh kemahirannya dalam memesona para penonton yang 
+menyaksikan aksinya. Selain trik-trik sulap umum, Deddy juga kerap menyajikan pertunjukan 
+sulap yang mengandung risiko tinggi. Meskipun dikenal sebagai pesulap, ia sendiri 
+lebih suka disebut sebagai "mentalis"
+>>>>>>> Stashed changes
