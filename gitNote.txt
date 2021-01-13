@@ -1,0 +1,4 @@
+git init : untuk menginisiasi direktori sekarang agar di inisiasi untuk disimpan oleh git
+git add : memberitahu ke git file yang mau disimpan --> untuk nambah file ke git
+git status : untuk melakukan checking dan trakcing pada aktivitas git
+git commit -m : perintah untuk melakukan save file pada git. 
